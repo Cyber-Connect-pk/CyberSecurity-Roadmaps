@@ -1,19 +1,15 @@
-|  | To Do | Topics | Certs/ Labs/ Tools  |
-| --- | --- | --- | --- | --- | --- |
-| Week 1 | Core Networking  Concepts | Network( OSI Model, TCP IP, IP Address, Subnetting, Routing Protocols, Topologies, Networking Devices, DNS, Ports and Protocols)
- | Network + 
-
-WireShark | Muhammad Abbas Zaidi |  |
-| Week 2 | Core Security , Roles and Responsiblties | CIA, Non Repudation, Authentication, Authorization, Vulnerablity, Threat, Incidene Responce, Basic GRC and VAPt attacks and how it happens | Security   |
-| Week 3 | OS Basics 
-Active Directory | Windows Archietecture, Linux Kernel Structure, File System Structure, User Acc Management , Process Management, Event Logs Analysis, CLI  |   
-| Week 4 |  Active Directory | WorkFLow and Active Directory, Why and how it happens, what use of it,   | Virtually on VM   |
-| Week 5 | Common Tools | PS IDS, Firewall, Antivirus, Scanners, Proxy, EDR,XDR, Sandbox technologies | Wazuh Integration   |
-| Week 6 | SIEM | Log Management, Why is siem used, Top Siem tools, Event, Alerts , Dashboard | Wazuh Integration  |
-| Week 7 | Incident Response | PREP, Detection, Containmenr, Post Recovery  |
-| Week 8 |  |  |  |  |  |
-| Week 9 | Threat Intelligence | Threat Intelligence Methologies,   |
-| Week 10  | Threat Intelligence Advance ( By Speaker) |  |  |    |
-| Week 11 | Compliance and how soc works in it |  |  |  |  |
-| Week 12 | Red Teaming ( Session) |  |  |  |  |
-| Week 13 | Allah Hafiz |  |  |  |  |
+| Week | Focus Area | Topics | Certs / Labs / Tools |
+|------|-----------|--------|----------------------|
+| Week 1 | Core Networking Concepts | OSI Model, TCP/IP, IP Addressing, Subnetting, Routing Protocols, Network Topologies, Networking Devices, DNS, Ports and Protocols | Network+, Wireshark |
+| Week 2 | Core Security Concepts & Roles | CIA Triad, Non-Repudiation, Authentication, Authorization, Vulnerability, Threat, Incident Response Basics, Intro to GRC, Basics of VAPT and common attacks | Security+ |
+| Week 3 | OS Basics | Windows Architecture, Linux Kernel Structure, File System Structure, User Account Management, Process Management, Event Log Analysis, CLI Basics | Local VM |
+| Week 4 | Active Directory | Active Directory Workflow, Purpose and Use Cases, How Active Directory Works, Authentication and Authorization | Active Directory (VM) |
+| Week 5 | Common Security Tools | IDS/IPS, Firewalls, Antivirus, Scanners, Proxies, EDR, XDR, Sandbox Technologies | Wazuh Integration |
+| Week 6 | SIEM | Log Management, Why SIEM is Used, Popular SIEM Tools, Events, Alerts, Dashboards | Wazuh Integration |
+| Week 7 | Incident Response | Preparation, Detection and Analysis, Containment, Eradication, Recovery, Post-Incident Activities | Case Studies |
+| Week 8 | Revision and Hands-On | Review of Networking, OS, Active Directory, SIEM, and Incident Response Concepts | Practice Labs |
+| Week 9 | Threat Intelligence | Threat Intelligence Concepts, Sources, Methodologies, MITRE ATT&CK Framework | Open-Source TI Tools |
+| Week 10 | Advanced Threat Intelligence | Advanced Threat Intelligence Techniques | Real-World Use Cases |
+| Week 11 | Compliance and SOC Operations | SOC Workflows, Compliance Basics, Role of SOC in GRC | Policy and Control Mapping |
+| Week 12 | Red Teaming | Introduction to Red Teaming, Attack Simulation, Red vs Blue Overview | Demonstration Session |
+| Week 13 | Program Wrap-Up | Final Review and Next Steps | — |
