@@ -1,15 +1,125 @@
-| Week | Focus Area | Topics | Certs / Labs / Tools |
-|------|-----------|--------|----------------------|
-| Week 1 | Core Networking Concepts | OSI Model, TCP/IP, IP Addressing, Subnetting, Routing Protocols, Network Topologies, Networking Devices, DNS, Ports and Protocols | Network+, Wireshark |
-| Week 2 | Core Security Concepts & Roles | CIA Triad, Non-Repudiation, Authentication, Authorization, Vulnerability, Threat, Incident Response Basics, Intro to GRC, Basics of VAPT and common attacks | Security+ |
-| Week 3 | OS Basics | Windows Architecture, Linux Kernel Structure, File System Structure, User Account Management, Process Management, Event Log Analysis, CLI Basics | Local VM |
-| Week 4 | Active Directory | Active Directory Workflow, Purpose and Use Cases, How Active Directory Works, Authentication and Authorization | Active Directory (VM) |
-| Week 5 | Common Security Tools | IDS/IPS, Firewalls, Antivirus, Scanners, Proxies, EDR, XDR, Sandbox Technologies | Wazuh Integration |
-| Week 6 | SIEM | Log Management, Why SIEM is Used, Popular SIEM Tools, Events, Alerts, Dashboards | Wazuh Integration |
-| Week 7 | Incident Response | Preparation, Detection and Analysis, Containment, Eradication, Recovery, Post-Incident Activities | Case Studies |
-| Week 8 | Revision and Hands-On | Review of Networking, OS, Active Directory, SIEM, and Incident Response Concepts | Practice Labs |
-| Week 9 | Threat Intelligence | Threat Intelligence Concepts, Sources, Methodologies, MITRE ATT&CK Framework | Open-Source TI Tools |
-| Week 10 | Advanced Threat Intelligence | Advanced Threat Intelligence Techniques | Real-World Use Cases |
-| Week 11 | Compliance and SOC Operations | SOC Workflows, Compliance Basics, Role of SOC in GRC | Policy and Control Mapping |
-| Week 12 | Red Teaming | Introduction to Red Teaming, Attack Simulation, Red vs Blue Overview | Demonstration Session |
-| Week 13 | Program Wrap-Up | Final Review and Next Steps | — |
+## Fellowship Roadmap – SOC 
+
+> This roadmap is designed for fellows to build strong SOC, blue-team, and security fundamentals through theory, hands-on labs, and real-world workflows.
+
+### Week 1: Networking Fundamentals
+- [ ] Understand OSI Model (layers & purpose)
+- [ ] Understand TCP/IP model
+- [ ] Practice IP addressing & subnetting
+- [ ] Learn routing basics & routing protocols
+- [ ] Identify network topologies & devices
+- [ ] Understand DNS, ports & common protocols
+- [ ] Capture and analyze traffic using Wireshark
+
+---
+
+### Week 2: Security Fundamentals & Roles
+- [ ] Understand CIA Triad
+- [ ] Learn Authentication vs Authorization
+- [ ] Understand Non-Repudiation
+- [ ] Differentiate Vulnerability, Threat, and Risk
+- [ ] Learn Incident Response basics
+- [ ] Introduction to GRC concepts
+- [ ] Understand VAPT basics and attack lifecycle
+
+---
+
+### Week 3: Operating System Fundamentals
+- [ ] Learn Windows architecture
+- [ ] Understand Linux kernel structure
+- [ ] Learn file system structures (Windows/Linux)
+- [ ] Practice user and access management
+- [ ] Understand process management
+- [ ] Analyze Windows/Linux event logs
+- [ ] Practice basic CLI commands
+
+---
+
+### Week 4: Active Directory
+- [ ] Understand Active Directory architecture
+- [ ] Learn how authentication & authorization work in AD
+- [ ] Understand domain controllers and forests
+- [ ] Learn Group Policy basics
+- [ ] Perform basic AD operations in a VM lab
+
+---
+
+### Week 5: Security Tools Overview
+- [ ] Understand IDS vs IPS
+- [ ] Learn firewall concepts and rules
+- [ ] Understand antivirus and malware detection
+- [ ] Learn vulnerability scanners
+- [ ] Understand proxies and traffic inspection
+- [ ] Learn EDR, XDR, and sandbox technologies
+- [ ] Integrate basic logs with Wazuh
+
+---
+
+### Week 6: SIEM Fundamentals
+- [ ] Understand log collection and management
+- [ ] Learn why SIEM is used
+- [ ] Explore popular SIEM tools
+- [ ] Understand events vs alerts
+- [ ] Build and analyze dashboards
+- [ ] Correlate logs using Wazuh
+
+---
+
+### Week 7: Incident Response
+- [ ] Learn IR lifecycle (Preparation → Lessons Learned)
+- [ ] Practice detection and analysis
+- [ ] Understand containment strategies
+- [ ] Learn eradication and recovery steps
+- [ ] Review real-world incident case studies
+
+---
+
+### Week 8: Review & Hands-On
+- [ ] Revise networking fundamentals
+- [ ] Revise OS and Active Directory concepts
+- [ ] Revise SIEM and Incident Response
+- [ ] Complete hands-on practice labs
+- [ ] Identify weak areas and revise
+
+---
+
+### Week 9: Threat Intelligence
+- [ ] Understand threat intelligence concepts
+- [ ] Learn threat intelligence sources
+- [ ] Understand intelligence methodologies
+- [ ] Learn Cyber Kill Chain
+- [ ] Explore MITRE ATT&CK framework
+- [ ] Use open-source threat intelligence tools
+
+---
+
+### Week 10: Advanced Threat Intelligence
+- [ ] Learn advanced TI techniques
+- [ ] Understand real-world threat actor behavior
+- [ ] Analyze advanced threat use cases
+- [ ] Attend / review guest session material
+
+---
+
+### Week 11: Compliance & SOC Operations
+- [ ] Understand SOC workflows
+- [ ] Learn alert monitoring and escalation
+- [ ] Understand compliance basics
+- [ ] Learn how SOC supports GRC
+- [ ] Map controls to policies
+
+---
+
+### Week 12: Red Teaming
+- [ ] Understand red teaming fundamentals
+- [ ] Learn attack simulation concepts
+- [ ] Understand Red vs Blue vs Purple teams
+- [ ] Observe red team demonstrations
+
+---
+
+### Week 13: Program Wrap-Up
+- [ ] Review all core concepts
+- [ ] Identify career path (SOC, DFIR, GRC, Red Team)
+- [ ] Collect feedback and reflections
+- [ ] Plan next learning steps
