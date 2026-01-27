@@ -1,1 +1,19 @@
+|  | To Do | Topics | Certs/ Labs/ Tools  |
+| --- | --- | --- | --- | --- | --- |
+| Week 1 | Core Networking  Concepts | Network( OSI Model, TCP IP, IP Address, Subnetting, Routing Protocols, Topologies, Networking Devices, DNS, Ports and Protocols)
+ | Network + 
 
+WireShark | Muhammad Abbas Zaidi |  |
+| Week 2 | Core Security , Roles and Responsiblties | CIA, Non Repudation, Authentication, Authorization, Vulnerablity, Threat, Incidene Responce, Basic GRC and VAPt attacks and how it happens | Security   |
+| Week 3 | OS Basics 
+Active Directory | Windows Archietecture, Linux Kernel Structure, File System Structure, User Acc Management , Process Management, Event Logs Analysis, CLI  |   
+| Week 4 |  Active Directory | WorkFLow and Active Directory, Why and how it happens, what use of it,   | Virtually on VM   |
+| Week 5 | Common Tools | PS IDS, Firewall, Antivirus, Scanners, Proxy, EDR,XDR, Sandbox technologies | Wazuh Integration   |
+| Week 6 | SIEM | Log Management, Why is siem used, Top Siem tools, Event, Alerts , Dashboard | Wazuh Integration  |
+| Week 7 | Incident Response | PREP, Detection, Containmenr, Post Recovery  |
+| Week 8 |  |  |  |  |  |
+| Week 9 | Threat Intelligence | Threat Intelligence Methologies,   |
+| Week 10  | Threat Intelligence Advance ( By Speaker) |  |  |    |
+| Week 11 | Compliance and how soc works in it |  |  |  |  |
+| Week 12 | Red Teaming ( Session) |  |  |  |  |
+| Week 13 | Allah Hafiz |  |  |  |  |
