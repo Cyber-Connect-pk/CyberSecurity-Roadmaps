@@ -56,5 +56,3 @@ This repository tracks journey from web fundamentals to professional penetration
 ---
 
 > **Note:** All activities performed during this roadmap are for educational purposes. 
-
-Would you like me to generate a **Reporting Template** for Week 13 so you have a professional layout ready for your findings?
