@@ -1,125 +1,43 @@
-## Fellowship Roadmap – SOC 
+# 🛡️ 100 DAYS SOC PATH
 
-> This roadmap is designed for fellows to build strong SOC, blue-team, and security fundamentals through theory, hands-on labs, and real-world workflows.
+This repository tracks journey through a comprehensive 13-week SOC roadmap.
 
-### Week 1: Networking Fundamentals
-- [ ] Understand OSI Model (layers & purpose)
-- [ ] Understand TCP/IP model
-- [ ] Practice IP addressing & subnetting
-- [ ] Learn routing basics & routing protocols
-- [ ] Identify network topologies & devices
-- [ ] Understand DNS, ports & common protocols
-- [ ] Capture and analyze traffic using Wireshark
+## 🚀 Progress Tracker
+
+* [ ] **Phase 1:** Networking & Security Fundamentals (Weeks 1-2)
+* [ ] **Phase 2:** Systems & Identity Management (Weeks 3-4)
+* [ ] **Phase 3:** Defensive Stack & SIEM (Weeks 5-6)
+* [ ] **Phase 4:** Advanced Defense & Intelligence (Weeks 7-12)
 
 ---
 
-### Week 2: Security Fundamentals & Roles
-- [ ] Understand CIA Triad
-- [ ] Learn Authentication vs Authorization
-- [ ] Understand Non-Repudiation
-- [ ] Differentiate Vulnerability, Threat, and Risk
-- [ ] Learn Incident Response basics
-- [ ] Introduction to GRC concepts
-- [ ] Understand VAPT basics and attack lifecycle
+## 📅 Weekly Curriculum
+
+| Week | Focus Area | Key Topics | Certs / Labs / Tools |
+| --- | --- | --- | --- |
+| **01** | **Core Networking** | OSI Model, TCP/IP, Subnetting, Routing, DNS, Ports & Protocols | CompTIA Network+, Wireshark |
+| **02** | **Security Fundamentals** | CIA Triad, AuthN vs AuthZ, Governance (GRC), Basic Attacks | CompTIA Security+ |
+| **03** | **OS Basics** | Windows Arch, Linux Kernel, File Systems, Log Analysis, CLI | Linux/Windows CLI Labs |
+| **04** | **Active Directory** | AD Workflow, User Management, Group Policy, Security Logs | VirtualBox/VMware Lab |
+| **05** | **Security Tooling** | IPS/IDS, Firewalls, EDR/XDR, Sandboxing, Proxies | Wazuh Integration |
+| **06** | **SIEM & Logging** | Log Management, Dashboards, Alerting Logic | Wazuh, ELK Stack |
+| **07** | **Incident Response** | Preparation, Detection, Containment, Eradication, Recovery | IR Playbooks |
+| **08** | **Buffer / Review** | Catch-up week & Hands-on Lab review | Review & Documentation |
+| **09** | **Threat Intel I** | Threat Intelligence Methodologies, Lifecycle, Pyramids of Pain | OpenCTI, MISP |
+| **10** | **Threat Intel II** | Advanced CTI (Guest Speaker Session / Case Studies) | Deep Dive Analysis |
+| **11** | **Compliance & SOC** | SOC Workflows, Regulatory Compliance (HIPAA, PCI-DSS, GDPR) | Case Studies |
+| **12** | **Red Teaming** | Offensive Security Mindset, Attack Simulations | Session / Lab |
+| **13** | **Completion** | Final Review & Project Documentation | **Allah Hafiz** |
 
 ---
 
-### Week 3: Operating System Fundamentals
-- [ ] Learn Windows architecture
-- [ ] Understand Linux kernel structure
-- [ ] Learn file system structures (Windows/Linux)
-- [ ] Practice user and access management
-- [ ] Understand process management
-- [ ] Analyze Windows/Linux event logs
-- [ ] Practice basic CLI commands
+## 🛠️ Toolset & Lab Environment
 
----
+* **Analysis:** Wireshark, Nmap
+* **Defensive:** Wazuh (SIEM/XDR), Suricata (IDS)
+* **Virtualization:** VMware Workstation / Oracle VirtualBox
+* **OS:** Kali Linux, Ubuntu Server, Windows Server 2022
 
-### Week 4: Active Directory
-- [ ] Understand Active Directory architecture
-- [ ] Learn how authentication & authorization work in AD
-- [ ] Understand domain controllers and forests
-- [ ] Learn Group Policy basics
-- [ ] Perform basic AD operations in a VM lab
+This roadmap is made by Laiba Waseem under CyberConnect Organization for Cyber Security Fellowship for SOC Track
 
----
-
-### Week 5: Security Tools Overview
-- [ ] Understand IDS vs IPS
-- [ ] Learn firewall concepts and rules
-- [ ] Understand antivirus and malware detection
-- [ ] Learn vulnerability scanners
-- [ ] Understand proxies and traffic inspection
-- [ ] Learn EDR, XDR, and sandbox technologies
-- [ ] Integrate basic logs with Wazuh
-
----
-
-### Week 6: SIEM Fundamentals
-- [ ] Understand log collection and management
-- [ ] Learn why SIEM is used
-- [ ] Explore popular SIEM tools
-- [ ] Understand events vs alerts
-- [ ] Build and analyze dashboards
-- [ ] Correlate logs using Wazuh
-
----
-
-### Week 7: Incident Response
-- [ ] Learn IR lifecycle (Preparation → Lessons Learned)
-- [ ] Practice detection and analysis
-- [ ] Understand containment strategies
-- [ ] Learn eradication and recovery steps
-- [ ] Review real-world incident case studies
-
----
-
-### Week 8: Review & Hands-On
-- [ ] Revise networking fundamentals
-- [ ] Revise OS and Active Directory concepts
-- [ ] Revise SIEM and Incident Response
-- [ ] Complete hands-on practice labs
-- [ ] Identify weak areas and revise
-
----
-
-### Week 9: Threat Intelligence
-- [ ] Understand threat intelligence concepts
-- [ ] Learn threat intelligence sources
-- [ ] Understand intelligence methodologies
-- [ ] Learn Cyber Kill Chain
-- [ ] Explore MITRE ATT&CK framework
-- [ ] Use open-source threat intelligence tools
-
----
-
-### Week 10: Advanced Threat Intelligence
-- [ ] Learn advanced TI techniques
-- [ ] Understand real-world threat actor behavior
-- [ ] Analyze advanced threat use cases
-- [ ] Attend / review guest session material
-
----
-
-### Week 11: Compliance & SOC Operations
-- [ ] Understand SOC workflows
-- [ ] Learn alert monitoring and escalation
-- [ ] Understand compliance basics
-- [ ] Learn how SOC supports GRC
-- [ ] Map controls to policies
-
----
-
-### Week 12: Red Teaming
-- [ ] Understand red teaming fundamentals
-- [ ] Learn attack simulation concepts
-- [ ] Understand Red vs Blue vs Purple teams
-- [ ] Observe red team demonstrations
-
----
-
-### Week 13: Program Wrap-Up
-- [ ] Review all core concepts
-- [ ] Identify career path (SOC, DFIR, GRC, Red Team)
-- [ ] Collect feedback and reflections
-- [ ] Plan next learning steps
+ section into a detailed sub-page with a specific step-by-step checklist?
