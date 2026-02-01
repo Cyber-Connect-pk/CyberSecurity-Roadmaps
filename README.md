@@ -18,7 +18,8 @@ Each roadmap is designed as a comprehensive 100-day journey, covering theory, la
 ## 🌐 Connect With Our Community
 
 Join the **Cyber Connect** ecosystem for collaborations, mentorship, and real-time knowledge sharing.
-**(Discord)[https://discord.gg/hrUjy6z8]**
+
+* **[Discord](https://discord.gg/hrUjy6z8)**
 
 
 ## 🛠️ Usage & Contribution
